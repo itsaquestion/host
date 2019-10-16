@@ -1,0 +1,71 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+0.0.0.0		bwh88.net
+0.0.0.0		www.bwh88.net
+0.0.0.0		steampowered.com
+0.0.0.0		store.steampowered.com
+0.0.0.0		epicgames.com
+0.0.0.0		www.epicgames.com
+0.0.0.0		douyu.com
+0.0.0.0		www.douyu.com
+0.0.0.0		huya.com
+0.0.0.0		www.huya.com
+0.0.0.0		v2ex.com
+0.0.0.0		www.v2ex.com
+0.0.0.0		zhihu.com
+0.0.0.0		www.zhihu.com
+0.0.0.0		ali213.net
+0.0.0.0		www.ali213.net
+0.0.0.0		bandwagonhost.com
+0.0.0.0		www.bandwagonhost.com
+0.0.0.0		www.bwh1.net
+0.0.0.0		www.bwh88.net
+0.0.0.0		gamegpu.com
+0.0.0.0		www.gamegpu.com
+0.0.0.0		gcores.com
+0.0.0.0		www.gcores.com
+0.0.0.0		gamersky.com
+0.0.0.0		www.gamersky.com
+0.0.0.0		gamersky.com
+0.0.0.0		3dmgame.com
+0.0.0.0		www.3dmgame.com
+0.0.0.0		bilibili.com
+0.0.0.0		www.bilibili.com
+0.0.0.0		bbs.hupu.com
+0.0.0.0		twitch.tv
+0.0.0.0		www.twitch.tv
+0.0.0.0		zmz2019.com
+0.0.0.0		www.zmz2019.com
+0.0.0.0		youtube.com
+0.0.0.0		www.youtube.com
+0.0.0.0		jd.com
+0.0.0.0		www.jd.com
+0.0.0.0		taobao.com
+0.0.0.0		www.taobao.com
+0.0.0.0		tmall.com
+0.0.0.0		www.tmall.com
+0.0.0.0		soccer.hupu.com
+0.0.0.0		bbs.hupu.com
+0.0.0.0		chiphell.com
+0.0.0.0		www.chiphell.com
+0.0.0.0		zfrontier.com
+0.0.0.0		www.zfrontier.com
